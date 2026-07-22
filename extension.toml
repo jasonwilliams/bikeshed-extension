@@ -1,0 +1,11 @@
+id = "bikeshed"
+name = "Bikeshed"
+version = "0.0.1"
+schema_version = 1
+authors = []
+description = "Syntax highlighting for Bikeshed spec source (.bs files)"
+repository = "https://github.com/jasonwilliams/bikeshed-extension"
+
+[grammars.bikeshed]
+repository = "https://github.com/jasonwilliams/tree-sitter-bikeshed"
+rev = "12d3ef53b563e6c51e75681f8a662867c49b1767"
