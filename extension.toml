@@ -2,7 +2,7 @@ id = "bikeshed"
 name = "Bikeshed"
 version = "0.0.1"
 schema_version = 1
-authors = []
+authors = ["JaseW"]
 description = "Syntax highlighting for Bikeshed spec source (.bs files)"
 repository = "https://github.com/jasonwilliams/bikeshed-extension"
 
